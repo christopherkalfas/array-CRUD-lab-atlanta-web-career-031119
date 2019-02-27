@@ -6,12 +6,12 @@ def create_an_array
   array = [ "Jon Snow", "Harry Potter", "Frodo Baggings", "Eleven"]
 end
 
-def add_element_to_end_of_array(array, element)
-  array << element
+def add_element_to_end_of_array(array, element5)
+  array << element5
 end
 
-def add_element_to_start_of_array(array, element)
-  array.push(element)
+def add_element_to_start_of_array(array, element6)
+  array.push(element6)
 end
 
 def remove_element_from_end_of_array(array)
